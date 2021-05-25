@@ -1,0 +1,11 @@
+name: PsauceCastPlugin
+version: ${project.version}
+main: ps.server.psaucecastplugin.PsauceCastPlugin
+api-version: 1.16
+prefix: < PsauceCastPlugin >
+authors: [ Sauce_Pauce ]
+description: A BoradCast Plugin By Sauce Pauce
+commands:
+  bc:
+    usage: /bc
+
