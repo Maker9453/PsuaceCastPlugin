@@ -8,4 +8,7 @@ description: A BoradCast Plugin By Sauce Pauce
 commands:
   bc:
     usage: /bc
-
+permissions:
+  BroadCast.broadcast:
+    default: op
+    description: 直接公告
